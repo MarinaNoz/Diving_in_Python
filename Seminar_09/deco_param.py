@@ -19,5 +19,5 @@ def fact(num: int) -> int:
         res *= i
     return res
 
-if __name__ == '__main__':
-    print(fact(int(input('Введите число: '))))
+# if __name__ == '__main__':
+print(fact(int(input('Введите число: '))))
