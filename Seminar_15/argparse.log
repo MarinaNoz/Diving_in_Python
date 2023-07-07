@@ -1,0 +1,18 @@
+INFO - 2023-07-07 18:46:51,078 - An INFO
+WARNING - 2023-07-07 18:46:51,078 - A WARNING
+ERROR - 2023-07-07 18:46:51,078 - An ERROR
+CRITICAL - 2023-07-07 18:46:51,078 - A message of CRITICAL severity
+INFO - 2023-07-07 18:46:51,078 - Tреугольник со сторонами 2, 3, 4 - разносторонний 
+
+INFO - 2023-07-07 18:47:42,608 - An INFO
+WARNING - 2023-07-07 18:47:42,608 - A WARNING
+ERROR - 2023-07-07 18:47:42,608 - An ERROR
+CRITICAL - 2023-07-07 18:47:42,608 - A message of CRITICAL severity
+INFO - 2023-07-07 18:47:42,608 - Tреугольник со сторонами 4, 3, 4 - равнобедренный 
+
+INFO - 2023-07-07 18:48:18,944 - An INFO
+WARNING - 2023-07-07 18:48:18,944 - A WARNING
+ERROR - 2023-07-07 18:48:18,944 - An ERROR
+CRITICAL - 2023-07-07 18:48:18,944 - A message of CRITICAL severity
+WARNING - 2023-07-07 18:48:18,944 - Tреугольника со сторонами 2, 3, 9 не существует!
+NoneType: None
